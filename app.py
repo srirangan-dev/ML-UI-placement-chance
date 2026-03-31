@@ -274,4 +274,4 @@ st.markdown("""
 <div style="text-align:center;color:#334155;font-size:0.78rem;padding:16px 0;">
   ML Mini Project &nbsp;·&nbsp; Placement Prediction System &nbsp;·&nbsp; Built with Streamlit & scikit-learn
 </div>
-""", unsafe_allow_html=True)
+""", unsafe_allow_html=True)    
